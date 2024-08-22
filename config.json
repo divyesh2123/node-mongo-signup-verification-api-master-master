@@ -1,4 +1,5 @@
 ﻿{
+    
     "connectionString": "mongodb+srv://divyeshpatel:divyesh2198@cluster0.lbp0yva.mongodb.net/test",
     "secret": "@ABC@##@234",
     "emailFrom": "divyesh2198@gmail.com",
